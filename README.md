@@ -52,8 +52,8 @@ ada_capstoneproject-main/
 ### 1) Clone and move into project
 
 ```bash
-git clone https://github.com/<your-username>/delivery-route-mini-project-Arpita.git
-cd delivery-route-mini-project-Arpita
+git clone https://github.com/Code-trac/ada_capstone.git
+cd ada_capstoneproject-main
 ```
 
 ### 2) Create and activate virtual environment
